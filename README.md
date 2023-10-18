@@ -35,6 +35,9 @@ print("the swapped value",x,"and",y)
 
 ~~~
 
+## OUTPUT:
+![Output](<swaping .png>)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
